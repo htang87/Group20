@@ -1,8 +1,8 @@
-## Team Roster
+# Team Roster
 
 [Home](README.md)  
 
-###### Meghan Hannon
+## Meghan Hannon
 
 *Front End Guru* 
 
