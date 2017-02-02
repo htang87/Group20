@@ -16,6 +16,6 @@
 Carolyn is a Java and C developer focused on gaining mastery of those languages and learning more about graphics and sound applications.  As a former Respiratory Therapist and amateur writer, she has a broad education encompassing health-care and the arts as well as computer science.  When she is not offering up her time at the altar of computing, she enjoys knitting, playing with puppies, and reading Harry Potter fanfiction.
 
 ## Marlin Manka
-#Front End Developer
+*Front End Developer*
 
 Marlin is a second-year Computer Science student and a graphic design enthusiast. He has experience with the Java and C Programming languages, along with a basic understanding HTML and CSS. Ever since he began experimenting with building and designing basic websites, he has been motivated to expand his knowledge and experience in this area of development. 
