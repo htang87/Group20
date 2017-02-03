@@ -19,3 +19,8 @@ Carolyn is a Java and C developer focused on gaining mastery of those languages 
 *Front End Developer*
 
 Marlin is a second-year Computer Science student and a graphic design enthusiast. He has experience with the Java and C Programming languages, along with a basic understanding HTML and CSS. Ever since he began experimenting with building and designing basic websites, he has been motivated to expand his knowledge and experience in this area of development. 
+
+## Sungyeon Hong
+*Back End Developer*
+
+Sungyeon is a Computer Science student with experiences in Java and C programing languages. She grew interest in programming from various appliactions and has pursued learning more about them. From previous job experiences, her goal is to desgin and make programs more user friendly. In her spare time she likes to look at techs from kickstarter, sleep, and play games.
