@@ -24,3 +24,10 @@ Sungyeon is a Computer Science student with experiences in Java and C programing
 *Database Designer*
 
 Hejia is a third- year computer science student with experiences with Java, C, Python, Javascript and SQL. She has more interests in information system than the software programming. he likes everything to be organised, hope that will make her a good database designer. And she enjoys watching TV shows and dramas when she is free.
+
+## Mal Kalarus
+*Front End Developer*
+
+<img src = "https://github.com/MalKalarus/Group20/blob/master/images/Mal-Photo.jpg">
+
+Mal is a second-year computer science student who has gained experience in Java, C, JavaScript, HTML, SQL and CSS. She is interested in graphic design and cryptography, as well as data analytics. In her spare time, she enjoys discovering the world around her by staying up to date on world events.
