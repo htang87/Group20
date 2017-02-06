@@ -34,4 +34,6 @@ Mal is a second-year computer science student who has gained experience in Java,
 ## Vincent Liu
 *Front-end Developer*
 
+<img src = "image/vincent_photo.jpg">
+
 Vincent is a second year computer science student with experiences in Java, Python, C/C++, HTML and SQL. He is interested in game design and development thanks to years of gaming and modding experience. When he is not a programmer Vince puts on his fly suit and goes for a couple of circuits over the city of London as he is an amatuer pilot and aviation enthusiast
