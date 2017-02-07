@@ -12,34 +12,34 @@ Carolyn is a Java and C developer focused on gaining mastery of those languages 
 ## Marlin Manka
 *Front End Developer*
 
-Marlin is a second-year Computer Science student and a graphic design enthusiast. He has experience with the Java and C Programming languages, along with a basic understanding HTML and CSS. Ever since he began experimenting with building and designing basic websites, he has been motivated to expand his knowledge and experience in this area of development. 
+Marlin is a second-year Computer Science student and a graphic design enthusiast. He has experience with the Java and C Programming languages, along with a basic understanding of HTML and CSS. Ever since he began experimenting with building and designing basic websites, he has been motivated to expand his knowledge and experience in this area of development. 
 
 ## Sungyeon Hong
 *Back End Developer*
 
-Sungyeon is a Computer Science student with experiences in Java and C programing languages. She grew interest in programming from various appliactions and has pursued learning more about them. From previous job experiences, her goal is to desgin and make programs more user friendly. In her spare time she likes to look at techs from kickstarter, sleep, and play games.
+Sungyeon is a Computer Science student with experience in the Java and C programming languages. She grew an interest in programming various appliactions and has pursued learning more about them. From previous job experiences, her goal is to make programs more user friendly. In her spare time she likes to look at tech from Kickstarter, sleep, and play games.
 
 ## Hejia Tang
 *Database Designer*
 
-Hejia is a third- year computer science student with experiences with Java, C, Python, Javascript and SQL. She has more interests in information system than the software programming. She likes everything to be organised, hope that will make her a good database designer. And she enjoys watching TV shows and dramas when she is free.
+Hejia is a third-year Computer Science student with experience in Java, C, Python, Javascript and SQL. She has more interest in information systems than software programming. She likes everything to be organised and hopes this will make her a good database designer. She enjoys watching TV shows and dramas when she is free.
 
 ## Mal Kalarus
 *Front End Developer*
 
 <img src = "images/Mal-Photo.jpg">
 
-Mal is a second-year computer science student who has gained experience in Java, C, JavaScript, HTML, SQL and CSS. She is interested in graphic design and cryptography, as well as data analytics. In her spare time, she enjoys discovering the world around her by staying up to date on world events.
+Mal is a second-year computer science student who has gained experience in Java, C, JavaScript, HTML, SQL and CSS. She is interested in graphic design and cryptography, as well as data analytics. In her spare time, she enjoys discovering the world around her by staying up-to-date on world events.
 
 ## Vincent Liu
 *Front-end Developer*
 
 <img src = "images/vince_photo.jpg">
 
-Vincent is a second year computer science student with experiences in Java, Python, C/C++, HTML and SQL. He is interested in game design and development thanks to years of gaming and modding experience. When he is not a programmer Vince puts on his fly suit and goes for a couple of circuits over the city of London as he is an amatuer pilot and aviation enthusiast
+Vincent is a second year Computer Science student with experience in Java, Python, C/C++, HTML and SQL. He is interested in game design and development thanks to years of gaming and modding experience. When he is not programming, Vince puts on his fly suit and goes for a couple of circuits over the city of London as he is an amateur pilot and aviation enthusiast.
 
 
 ## Yiming Niu
-*back-end Developer*
+*Back-end Developer*
 
-Yiming is a fourth-year student in western University major in computer science. He knows how to use python, c, java and matlb. He's interested in back-end develop especially algorithm design. He's passion is deep learning. Learning how computer can do some task by using NN is the main job he does in his spare time.
+Yiming is a fourth-year student in Western University majoring in computer science. He knows how to use Python, C, Java and Matlab. He's interested in back-end development, especially algorithm design, and is passionate about deep learning. Learning how computer can do some task by using NN is the main job he does in his spare time.
