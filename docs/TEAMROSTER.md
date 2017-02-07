@@ -29,7 +29,7 @@ Hejia is a third-year Computer Science student with experience in Java, C, Pytho
 
 <img src = "images/Mal-Photo.jpg">
 
-Mal is a second-year computer science student who has gained experience in Java, C, JavaScript, HTML, SQL and CSS. She is interested in graphic design and cryptography, as well as data analytics. In her spare time, she enjoys discovering the world around her by staying up-to-date on world events.
+Mal is a second-year Computer Science student who has gained experience in Java, C, JavaScript, HTML, SQL and CSS. She is interested in graphic design and cryptography, as well as data analytics. In her spare time, she enjoys discovering the world around her by staying up-to-date on world events.
 
 ## Vincent Liu
 *Front-end Developer*
@@ -41,5 +41,7 @@ Vincent is a second year Computer Science student with experience in Java, Pytho
 
 ## Yiming Niu
 *Back-end Developer*
+
+<img src = "images/2212_NickProfile_Res.jpg">
 
 Yiming is a fourth-year student in Western University majoring in computer science. He knows how to use Python, C, Java and Matlab. He's interested in back-end development, especially algorithm design, and is passionate about deep learning. Learning how computer can do some task by using NN is the main job he does in his spare time.
