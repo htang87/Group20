@@ -19,6 +19,8 @@ Marlin is a second-year Computer Science student and a graphic design enthusiast
 ## Sungyeon Hong
 *Back End Developer*
 
+<img src = "images/B612_20161219_130937[1].jpg" height="150" width="150">
+
 Sungyeon is a Computer Science student with experience in the Java and C programming languages. She grew an interest in programming various appliactions and has pursued learning more about them. From previous job experiences, her goal is to make programs more user friendly. In her spare time she likes to look at tech from Kickstarter, sleep, and play games.
 
 ## Hejia Tang
