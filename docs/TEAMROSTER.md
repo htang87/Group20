@@ -12,6 +12,8 @@ Carolyn will be participating in both the front- and back-end development of Res
 ## Marlin Manka
 *Front End Developer*
 
+<img src = "images/MarlinM_Photo.jpg" height="150" width="150">
+
 Marlin is a second-year Computer Science student and a graphic design enthusiast. He has experience with the Java and C Programming languages, along with a basic understanding of HTML and CSS. Ever since he began experimenting with building and designing basic websites, he has been motivated to expand his knowledge and experience in this area of development. 
 
 ## Sungyeon Hong
