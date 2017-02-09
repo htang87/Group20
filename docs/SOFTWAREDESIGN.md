@@ -1,5 +1,5 @@
 ## Software Design Page
 
-[Home](README.md)  
+Please, admire our UML diagram (created using Microsoft Visio):
 
-software design page 
+<img src = "images/CS2212UML.vsdx">
